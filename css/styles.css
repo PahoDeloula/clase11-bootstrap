@@ -185,6 +185,9 @@ a.intro__btn:hover {
             margin: 10px;
             height: auto;
         }
+        .content__all {
+            height: 70vh;
+        }
 
 /* Inician estilos de footer */
 
